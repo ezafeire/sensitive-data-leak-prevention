@@ -1,2 +1,0 @@
-npm run dev
-smee -u https://smee.io/jMDaf15za60RS3to
