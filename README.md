@@ -10,7 +10,7 @@
 npm install probot
 
 # Run the bot
-npm start
+npm start 
 ```
 
 
